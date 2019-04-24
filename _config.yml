@@ -1,4 +1,4 @@
 title: EGI Notebooks charts for Kubernetes
 description: This repository stores Helm chart tarballs for EGI Notebooks tools. Actual development of the Helm charts takes place in the egi-notebooks-* repos.
-
-
+show_downloads: false
+theme: jekyll-theme-cayman
