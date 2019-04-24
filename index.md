@@ -5,7 +5,7 @@ In progress
 ## Stable releases
 
 {% assign accounting = site.data.index.entries.notebooks-accounting | sort: 'created' | reverse %}
-{% assign monitoring = site.data.index.entries.notebooks-monitoring | sort: 'created' | reverse %}
+{% assign monitoring = site.data.index.entries.notebooks-accounting | sort: 'created' | reverse %}
 {% assign all_charts = accounting | concat: monitoring %}
 <table>
   <tr>
@@ -28,7 +28,8 @@ In progress
   {% endfor %}
 </table>
 
-## Development releases: accounting
+
+## Development releases: accounting
 
 <table>
   <tr>
