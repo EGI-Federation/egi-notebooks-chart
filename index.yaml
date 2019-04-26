@@ -12,6 +12,15 @@ entries:
     version: 0.1.0-fcd1533
   - apiVersion: v1
     appVersion: "1.0"
+    created: 2019-04-26T08:38:04.298686556Z
+    description: A Helm chart for Kubernetes
+    digest: ed6860784bfc6021b1c3d49f8c5f404c5bbc3e5a1852b67396332fa6383967d7
+    name: notebooks-accounting
+    urls:
+    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-5636358.tgz
+    version: 0.1.0-5636358
+  - apiVersion: v1
+    appVersion: "1.0"
     created: 2019-04-24T13:01:42.45423+01:00
     description: A Helm chart for Kubernetes
     digest: 9366f3ce4fc1f05fbdb1cb8a26079d83e9f3ebb6967db4b81a11d02ea058a0ff
@@ -38,4 +47,4 @@ entries:
     urls:
     - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-80556fd.tgz
     version: 0.1.0-80556fd
-generated: 2019-04-26T08:25:52.363925282Z
+generated: 2019-04-26T08:38:04.298187936Z
