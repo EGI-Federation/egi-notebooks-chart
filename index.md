@@ -1,3 +1,5 @@
+# EGI Notebooks helm charts
+
 ## Docs...
 
 In progress
@@ -29,7 +31,7 @@ In progress
 </table>
 
 
-## Development releases: accounting
+## accounting releases
 
 <table>
   <tr>
@@ -53,7 +55,7 @@ In progress
 </table>
 
 
-## Development releases: monitor
+## monitor releases
 
 <table>
   <tr>
