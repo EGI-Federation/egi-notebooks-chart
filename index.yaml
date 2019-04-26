@@ -49,6 +49,15 @@ entries:
   notebooks-monitor:
   - apiVersion: v1
     appVersion: "1.0"
+    created: 2019-04-26T12:38:06.486208282Z
+    description: A Helm chart for Kubernetes
+    digest: 2f2815f9b911c413ab9d9c3abc366fb9bbfef73943b777ca65c9e78ea8dac811
+    name: notebooks-monitor
+    urls:
+    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-ec59f3b.tgz
+    version: 0.1.1-ec59f3b
+  - apiVersion: v1
+    appVersion: "1.0"
     created: 2019-04-26T09:37:24.279537991Z
     description: A Helm chart for Kubernetes
     digest: 10bd87071e06a0c01910b07057591a0a7e8a82e218752976145566539986bc13
@@ -83,4 +92,4 @@ entries:
     urls:
     - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-3959483.tgz
     version: 0.1.0-3959483
-generated: 2019-04-26T12:34:23.900349445Z
+generated: 2019-04-26T12:38:06.485803651Z
