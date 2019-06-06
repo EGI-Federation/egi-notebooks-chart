@@ -94,6 +94,15 @@ entries:
     version: 0.1.0-e64c923
   - apiVersion: v1
     appVersion: "1.0"
+    created: 2019-06-06T09:10:51.690488557Z
+    description: A Helm chart for Kubernetes
+    digest: d32fc090a184d2b2fa7e55a0cbbd23c0e47cf25f5ab11ab5836bd9c3ab49b8a5
+    name: notebooks-backup
+    urls:
+    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-e41cd26.tgz
+    version: 0.1.0-e41cd26
+  - apiVersion: v1
+    appVersion: "1.0"
     created: 2019-06-06T07:20:14.227319+01:00
     description: A Helm chart for Kubernetes
     digest: 2969773738545c9b5bafbd1e394e6db5c6098ca4ce7cb2d014f4fd1688756f8d
@@ -183,4 +192,4 @@ entries:
     urls:
     - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-3959483.tgz
     version: 0.1.0-3959483
-generated: 2019-06-06T09:02:18.289581086Z
+generated: 2019-06-06T09:10:51.690074794Z
