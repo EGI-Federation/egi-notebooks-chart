@@ -8,7 +8,8 @@ In progress
 
 {% assign accounting = site.data.index.entries.notebooks-accounting | sort: 'created' | reverse %}
 {% assign monitor = site.data.index.entries.notebooks-monitor | sort: 'created' | reverse %}
-{% assign all_charts = accounting | concat: monitor %}
+{% assign backup = site.data.index.entries.notebooks-backup | sort: 'created' | reverse %}
+{% assign all_charts = accounting | concat: monitor | concat: backup %}
 <table>
   <tr>
     <th>release</th>
@@ -63,6 +64,29 @@ In progress
     <th>date</th>
   </tr>
   {% for chart in monitor %}
+    <tr>
+      <td>
+      {% unless chart.version contains "-" %}<b>{% endunless %}
+      <a href="{{ chart.urls[0] }}">
+          {{ chart.name }}-{{ chart.version | remove_first: "v" }}
+      </a>
+      {% unless chart.version contains "-" %}</b>{% endunless %}
+      </td>
+      <td>
+      <span class='date'>{{ chart.created | date_to_rfc822 }}</span>
+      </td>
+    </tr>
+  {% endfor %}
+</table>
+
+## backup releases
+
+<table>
+  <tr>
+    <th>release</th>
+    <th>date</th>
+  </tr>
+  {% for chart in backup %}
     <tr>
       <td>
       {% unless chart.version contains "-" %}<b>{% endunless %}
