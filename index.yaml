@@ -8,7 +8,7 @@ entries:
     digest: 79390bafb302b1093950c09b3f09dd4bb68c7b109df42843be820bb66d8e472c
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -17,7 +17,7 @@ entries:
     digest: 406eda02fd9293f78f4be5d79b89d738d99eeb159d3ed5348cf4115c19bd7434
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n011.hdc20722.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n011.hdc20722.tgz
     version: 0.1.1-n011.hdc20722
   - apiVersion: v1
     appVersion: "1.0"
@@ -26,7 +26,7 @@ entries:
     digest: 11496c29fb7d3b63b1d40603774de63206b2e7d2add9d1c78eb4f49add1b798c
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n010.hf2dfda1.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n010.hf2dfda1.tgz
     version: 0.1.1-n010.hf2dfda1
   - apiVersion: v1
     appVersion: "1.0"
@@ -35,7 +35,7 @@ entries:
     digest: b23a9d2ae7c9871ac95febaea55be01ea8b0c7614eb173f6172fcefeaf69dec1
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n010.h16772b2.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n010.h16772b2.tgz
     version: 0.1.1-n010.h16772b2
   - apiVersion: v1
     appVersion: "1.0"
@@ -44,7 +44,7 @@ entries:
     digest: e40fa8f0e5dceacf5d27e8aaa1612e668f7182189ab03b28a6577c11cd8793e9
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n009.ha364481.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n009.ha364481.tgz
     version: 0.1.1-n009.ha364481
   - apiVersion: v1
     appVersion: "1.0"
@@ -53,7 +53,7 @@ entries:
     digest: 417aed52eb414282361cb4d8ddeabb704fd55d1eafb13f8dfc97d75995be75d5
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n008.h839f72e.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n008.h839f72e.tgz
     version: 0.1.1-n008.h839f72e
   - apiVersion: v1
     appVersion: "1.0"
@@ -62,7 +62,7 @@ entries:
     digest: 3d6e854c6484cf14568c6f74c2f5f5c216935295969e3f399cb688c423fc89f4
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n007.hedacce1.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.1-n007.hedacce1.tgz
     version: 0.1.1-n007.hedacce1
   - apiVersion: v1
     appVersion: "1.0"
@@ -71,7 +71,7 @@ entries:
     digest: 39a8c95be51146971f7f9a29659f337f0909b1f044ea36192f61cc25896c6e30
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -80,7 +80,7 @@ entries:
     digest: 7f8ebe4ee1efe3c4e63ebb620ea5fa5fe200ef9c446011a0bcef86f334ef00ed
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-fcd1533.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-fcd1533.tgz
     version: 0.1.0-fcd1533
   - apiVersion: v1
     appVersion: "1.0"
@@ -89,7 +89,7 @@ entries:
     digest: 696ac0ac0b4bb42699085e7efb09d6c18e4ed13cce7d213a3c7e3a856b78565d
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-fbce6e2.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-fbce6e2.tgz
     version: 0.1.0-fbce6e2
   - apiVersion: v1
     appVersion: "1.0"
@@ -98,7 +98,7 @@ entries:
     digest: fa24d06316e6ff54ae77cd3cdea43591e285c7207240d3078fd454df6c95c165
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-fa5e856.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-fa5e856.tgz
     version: 0.1.0-fa5e856
   - apiVersion: v1
     appVersion: "1.0"
@@ -107,7 +107,7 @@ entries:
     digest: 9c2ceb213aec25f60f4875de20043073728072602ea8f91cb4b921790123e1f8
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-c891467.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-c891467.tgz
     version: 0.1.0-c891467
   - apiVersion: v1
     appVersion: "1.0"
@@ -116,7 +116,7 @@ entries:
     digest: b539f75bd827495ef86b863b90a20fec07e5091f9614a1d9efc49e1e69c2bd9c
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-9ae061c.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-9ae061c.tgz
     version: 0.1.0-9ae061c
   - apiVersion: v1
     appVersion: "1.0"
@@ -125,7 +125,7 @@ entries:
     digest: 2a3e0606aff0f88b5e92e8356a74bc098feb9e302d5d13b91becfe53d8d7f2d2
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-9617f56.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-9617f56.tgz
     version: 0.1.0-9617f56
   - apiVersion: v1
     appVersion: "1.0"
@@ -134,7 +134,7 @@ entries:
     digest: 9366f3ce4fc1f05fbdb1cb8a26079d83e9f3ebb6967db4b81a11d02ea058a0ff
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-54e2e51.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-54e2e51.tgz
     version: 0.1.0-54e2e51
   - apiVersion: v1
     appVersion: "1.0"
@@ -143,7 +143,7 @@ entries:
     digest: 67969d8b247c052f5cfc58ebb88e5381598a03968d12db3372849efd375fb833
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-30dbb64.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-30dbb64.tgz
     version: 0.1.0-30dbb64
   - apiVersion: v1
     appVersion: "1.0"
@@ -152,7 +152,7 @@ entries:
     digest: ed6860784bfc6021b1c3d49f8c5f404c5bbc3e5a1852b67396332fa6383967d7
     name: notebooks-accounting
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-5636358.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-accounting-0.1.0-5636358.tgz
     version: 0.1.0-5636358
   notebooks-backup:
   - apiVersion: v1
@@ -162,7 +162,7 @@ entries:
     digest: 4191ca3828fb373361112cb014653aa0261bb84a07d9bb15a12477782c0a9dbb
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-e64c923.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-e64c923.tgz
     version: 0.1.0-e64c923
   - apiVersion: v1
     appVersion: "1.0"
@@ -171,7 +171,7 @@ entries:
     digest: d32fc090a184d2b2fa7e55a0cbbd23c0e47cf25f5ab11ab5836bd9c3ab49b8a5
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-e41cd26.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-e41cd26.tgz
     version: 0.1.0-e41cd26
   - apiVersion: v1
     appVersion: "1.0"
@@ -180,7 +180,7 @@ entries:
     digest: 2969773738545c9b5bafbd1e394e6db5c6098ca4ce7cb2d014f4fd1688756f8d
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-af2317f.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-af2317f.tgz
     version: 0.1.0-af2317f
   - apiVersion: v1
     appVersion: "1.0"
@@ -189,7 +189,7 @@ entries:
     digest: 7464987adf389d556ebc78d0503624f46942cd5cba78f2d746789565e604697a
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-ac71982.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-ac71982.tgz
     version: 0.1.0-ac71982
   - apiVersion: v1
     appVersion: "1.0"
@@ -198,7 +198,7 @@ entries:
     digest: 049293739acd521fbe6a24d3f06d95ecaf9a9efb573048619ee21874db3ff9ee
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-71c4a52.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-71c4a52.tgz
     version: 0.1.0-71c4a52
   - apiVersion: v1
     appVersion: "1.0"
@@ -207,7 +207,7 @@ entries:
     digest: 4b4fbf86fed3d88061fe2871395f6786c45f9fa680dfa372f77f93165684adcb
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-5b7cab0.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-5b7cab0.tgz
     version: 0.1.0-5b7cab0
   - apiVersion: v1
     appVersion: "1.0"
@@ -216,7 +216,7 @@ entries:
     digest: d2993fc7fd8e593c5ccd98e0ea3330520253e18f25a4b8e91e33b0ac5fa63efd
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-57f8f86.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-57f8f86.tgz
     version: 0.1.0-57f8f86
   - apiVersion: v1
     appVersion: "1.0"
@@ -225,7 +225,7 @@ entries:
     digest: ada17523d12f0c3a0fbe2da3ebdc3793c0a92c01e280243fdfd2bd8be8d7e544
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-3ac6cbb.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-3ac6cbb.tgz
     version: 0.1.0-3ac6cbb
   - apiVersion: v1
     appVersion: "1.0"
@@ -234,7 +234,7 @@ entries:
     digest: 54a24c30413d5156a1e2f1617aea1a777190b5ff4f78878354858be5e782b75a
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-280d092.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-280d092.tgz
     version: 0.1.0-280d092
   - apiVersion: v1
     appVersion: "1.0"
@@ -243,7 +243,7 @@ entries:
     digest: 4d5c4f706c5ed8275dffaf48975072fe07458fe1be1937aba8db2da6740052e0
     name: notebooks-backup
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-0cd2fdb.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-backup-0.1.0-0cd2fdb.tgz
     version: 0.1.0-0cd2fdb
   notebooks-monitor:
   - apiVersion: v1
@@ -253,7 +253,7 @@ entries:
     digest: 281fdb0d318a9422fec376ac298d0b433177b1674f36081ec9f3c5081cba5396
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -262,7 +262,7 @@ entries:
     digest: 0c1447258c8390695dd4388bea395e191c93e24c683cf5465d2970870a692073
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n006.h2b68064.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n006.h2b68064.tgz
     version: 0.2.0-n006.h2b68064
   - apiVersion: v1
     appVersion: "1.0"
@@ -271,7 +271,7 @@ entries:
     digest: 57993c294438db411c6a5ca05d14feb331890f732b707e344c49a628170d381a
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n003.h5fc5300.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n003.h5fc5300.tgz
     version: 0.2.0-n003.h5fc5300
   - apiVersion: v1
     appVersion: "1.0"
@@ -280,7 +280,7 @@ entries:
     digest: cd89d079f25057e54a97b9b44bcecbf9369423c357eb0b2f202644ee631309a1
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n002.haaf5dbd.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n002.haaf5dbd.tgz
     version: 0.2.0-n002.haaf5dbd
   - apiVersion: v1
     appVersion: "1.0"
@@ -289,7 +289,7 @@ entries:
     digest: 53af68e79046858e84aa78c88d9e198a45d35f31cb1f323918170ffa29ff86f4
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n001.h7b5320c.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.2.0-n001.h7b5320c.tgz
     version: 0.2.0-n001.h7b5320c
   - apiVersion: v1
     appVersion: "1.0"
@@ -298,7 +298,7 @@ entries:
     digest: 9e44d3c47628e9d8aa44007f1ec58ed37b73e79806091f8d5638aa8afdbba848
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
@@ -307,7 +307,7 @@ entries:
     digest: c372233d4e47d4c3165bb98628143bd4399ff0bc7d20241dce53172a43f561b6
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-n009.h5855f08.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-n009.h5855f08.tgz
     version: 0.1.1-n009.h5855f08
   - apiVersion: v1
     appVersion: "1.0"
@@ -316,7 +316,7 @@ entries:
     digest: aaffbe3d0ac265ee17318da9c7652373a3c24a4eced2a36630e6f33d9a299110
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-n004.h4ea32cf.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-n004.h4ea32cf.tgz
     version: 0.1.1-n004.h4ea32cf
   - apiVersion: v1
     appVersion: "1.0"
@@ -325,7 +325,7 @@ entries:
     digest: 2f2815f9b911c413ab9d9c3abc366fb9bbfef73943b777ca65c9e78ea8dac811
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-ec59f3b.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.1-ec59f3b.tgz
     version: 0.1.1-ec59f3b
   - apiVersion: v1
     appVersion: "1.0"
@@ -334,7 +334,7 @@ entries:
     digest: 10bd87071e06a0c01910b07057591a0a7e8a82e218752976145566539986bc13
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
     appVersion: "1.0"
@@ -343,7 +343,7 @@ entries:
     digest: b68d309ff2a5098c3dd8767ee4f84487aef9559dda5a3c4fede596aef5470bce
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-8bf1800.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-8bf1800.tgz
     version: 0.1.0-8bf1800
   - apiVersion: v1
     appVersion: "1.0"
@@ -352,7 +352,7 @@ entries:
     digest: 1fef71e6aa7b30148954c363ced2cfa274b053801d54866835b8b985b1d6585a
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-80556fd.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-80556fd.tgz
     version: 0.1.0-80556fd
   - apiVersion: v1
     appVersion: "1.0"
@@ -361,6 +361,6 @@ entries:
     digest: 6e19d5ca7bb31246944da15bdc56de361da0d1c5b58b38155721b50bf050595b
     name: notebooks-monitor
     urls:
-    - https://egi-foundation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-3959483.tgz
+    - https://egi-federation.github.io/egi-notebooks-chart/notebooks-monitor-0.1.0-3959483.tgz
     version: 0.1.0-3959483
 generated: "2020-06-23T08:35:51.792394375Z"
